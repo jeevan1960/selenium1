@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="BTPL-BYOD-023" name="demoJenkins.DemoJenkinsnJobs" tests="1" failures="0" timestamp="12 Jul 2019 17:32:47 GMT" time="12.778" errors="0">
+  <testcase name="testJenkins" time="12.768" classname="demoJenkins.DemoJenkinsnJobs"/>
+</testsuite>
