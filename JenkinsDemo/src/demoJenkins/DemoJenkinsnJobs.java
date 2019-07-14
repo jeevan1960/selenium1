@@ -15,6 +15,7 @@ public class DemoJenkinsnJobs {
 		driver.get("http://www.google.com");
 		System.out.println(driver.getTitle());
 		System.out.println("I am Done with opening of google in browser");
+		System.out.println("Hello from branch1");
 		driver.quit();
 	}
 
