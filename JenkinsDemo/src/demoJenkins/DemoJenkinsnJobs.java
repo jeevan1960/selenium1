@@ -14,7 +14,7 @@ public class DemoJenkinsnJobs {
 		WebDriver driver=new ChromeDriver();
 		driver.get("http://www.google.com");
 		System.out.println(driver.getTitle());
-		System.out.println("Done with opening of google in browser");
+		System.out.println("I am Done with opening of google in browser");
 		driver.quit();
 	}
 
