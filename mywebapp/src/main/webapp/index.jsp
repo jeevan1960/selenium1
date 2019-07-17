@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World WITH github hook SCM!</h1>
+        <h1>Hello World WITH github webhook!</h1>
     </body>
 </html>
